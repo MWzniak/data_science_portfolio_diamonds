@@ -1,0 +1,4 @@
+The goal is to predict diamond prices based on their parameters.
+Target variable = 'price'
+Dataset description and download:
+https://www.kaggle.com/datasets/shivam2503/diamonds
